@@ -1,0 +1,8 @@
+{
+    "id":           "zettatel",
+	"type":         "mod",
+    "name":         "Zettatel",
+    "icon_url":     "icon.png",
+    "description":  "Send SMS via Zettatel Communications service",
+    "version":      "1.0.0"
+}
